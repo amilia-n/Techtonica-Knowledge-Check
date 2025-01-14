@@ -14,11 +14,10 @@ Results
 	
 	
 	
-	
 [Problem 2] - Loop n Times
 Write a function named loopThrough that takes an argument that is a number and loops through and prints a message “Hello World” that number of times.
 
-Bonus: After each "Hello world" exept the last add a comma. Example loopThrough(3) = Hello world, Hello world, Hello world
+Bonus: After each "Hello world" except the last add a comma. Example loopThrough(3) = Hello world, Hello world, Hello world
 
 Results
 |      input      |          outputs          | 
